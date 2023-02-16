@@ -1,0 +1,2 @@
+# parcijalni-ispit
+Razvojna okolina
